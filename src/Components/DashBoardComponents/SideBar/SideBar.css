@@ -1,0 +1,17 @@
+.sidebar {
+  background-image: linear-gradient(40deg, #1293F4, #5a7e8c);
+  position: fixed;
+}
+
+.sidebar li {
+  margin-bottom: 2em;
+}
+
+
+.sidebar li:active {
+  background: chartreuse;
+}
+
+.sidebar svg {
+  margin-right: 5px;
+}
